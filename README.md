@@ -1,7 +1,5 @@
-# P01-Udemy-S4
+### Part 01, Section 4 of the Udemy course
 
-P01 - Part 01
-S4 - Section 4 
 
 Until now I haven't really felt the need to practice after continuing with the Udemy course.
 That means I also had problems with memorizing what I've just watched
