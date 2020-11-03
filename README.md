@@ -5,8 +5,6 @@ Until now I haven't really felt the need to practice after continuing with the U
 That means I also had problems with memorizing what I've just watched
 So I started practicing and fiddling with the resources, altering them a bit and try to think of a way I would use them.
 
-<br>
-
 ### Note: Things are commented out because I was practicing these 3 topics in a single solution.
 
 <br>
